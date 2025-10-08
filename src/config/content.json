@@ -1,6 +1,6 @@
 {
   "nav": {
-    "name": "Your Name",
+    "name": "Aurora Xu",
     "menu": [
       {
         "text": "Home",
@@ -30,15 +30,15 @@
   },
   "hero": {
     "greeting": "Hi",
-    "name": "Your Name",
-    "title": "Full Stack Developer",
-    "description": "I build exceptional and accessible digital experiences for the web.",
+    "name": "Aurora Xu",
+    "title": "HR Innovator | Turning Data into People Insights",
+    "description": "Exploring how people and data can grow together — blending human insight, analytics, and innovation to shape the future of work.",
     "image": "/images/avatar.png",
     "resume": "https://technical-resume.edgeone.app/"
   },
   "about": {
     "title": "About Me",
-    "description": "Write a detailed description about yourself, your background, and your interests. This section helps visitors get to know you better.",
+    "description": "Hi, I am Aurora Xu, a student of master degree in Human Resources and Business Analytics at UNSW. I am fascinated by how people, data, and strategy can come together to make work more meaningful. Along the way, I have supported recruitment and HRBP projects, which sparked my curiosity about the future of HR — how we can combine empathy and analytics to help both people and organizations grow. I am now exploring human capital consulting, where I hope to keep blending human insight with data thinking to create workplaces that are smarter, fairer, and more human.",
     "button": "Download CV",
     "image": "/images/avatar.png"
   },
@@ -46,113 +46,105 @@
     "title": "My Skills",
     "categories": [
       {
-        "title": "Frontend",
+        "title": "Human Resources",
         "skills": [
           {
-            "name": "HTML",
+            "name": "Talent Management",
             "image": "/images/html.png"
           },
           {
-            "name": "CSS",
+            "name": "Recruitment Support",
             "image": "/images/Css.png"
           },
           {
-            "name": "JavaScript",
+            "name": "Employee Engagement",
             "image": "/images/js.png"
           },
           {
-            "name": "React",
+            "name": "HRBP Support",
             "image": "/images/react.png"
           },
           {
-            "name": "Bootstrap",
+            "name": "Performance Planning Basics",
             "image": "/images/bootstrap.jpg"
           }
         ]
       },
       {
-        "title": "Backend",
+        "title": "Business Analytics",
         "skills": [
           {
-            "name": "Node.js",
+            "name": "Business Metrics & Reporting",
             "image": "/images/nodejs.png"
           },
           {
-            "name": "Express",
+            "name": "Data Interpretation",
             "image": "/images/express-js.png"
           },
           {
-            "name": "MongoDB",
+            "name": "Business Insight & Decision Making",
             "image": "/images/mongo.png"
           },
           {
-            "name": "MySQL",
+            "name": "Dashboarding & Visualization",
             "image": "/images/mysql.png"
-          },
-          {
-            "name": "PostgreSQL",
-            "image": "/images/post.png"
           }
         ]
       },
       {
-        "title": "Data Science",
+        "title": "Tools & Technologies",
         "skills": [
           {
             "name": "Python",
             "image": "/images/python.png"
           },
           {
-            "name": "TensorFlow",
+            "name": "Tableau",
             "image": "/images/tensor.png"
           },
           {
-            "name": "PyTorch",
+            "name": "PowerBI",
             "image": "/images/deep.png"
           },
           {
-            "name": "Scikit-learn",
+            "name": "SAS Viya",
             "image": "/images/scikit.png"
           },
           {
-            "name": "Pandas",
+            "name": "R",
             "image": "/images/pandas.png"
           },
           {
-            "name": "NumPy",
+            "name": "Powerpoint",
             "image": "/images/numpy.png"
           },
           {
-            "name": "Matplotlib",
+            "name": "Excel",
             "image": "/images/matplot.png"
-          },
-          {
-            "name": "Seaborn",
-            "image": "/images/seaborn.png"
           }
         ]
       },
       {
-        "title": "Tools",
+        "title": "Consulting & Soft Skills",
         "skills": [
           {
-            "name": "Git",
+            "name": "Group Communicating & Collaborating",
             "image": "/images/git.png"
           },
           {
-            "name": "VS Code",
+            "name": "Strategic Thinking",
             "image": "/images/vscode.jpg"
           },
           {
-            "name": "Jupyter",
+            "name": "Stakeholder Management",
             "image": "/images/jupyter.png"
           },
           {
-            "name": "Figma",
+            "name": "Project Coordination",
             "image": "/images/figma.png"
           },
           {
-            "name": "Canva",
+            "name": "Leadership",
             "image": "/images/canva.jpg"
           }
         ]
@@ -163,46 +155,45 @@
     "title": "Experience",
     "timeline": [
       {
-        "title": "Job Title",
-        "company": "Company Name",
-        "period": "Duration",
-        "description": "Describe your responsibilities and achievements in this role. Highlight key projects and skills used."
-      },
-      {
-        "title": "Previous Job Title",
-        "company": "Previous Company",
-        "period": "Duration",
-        "description": "Describe your previous role, responsibilities, and achievements. Focus on relevant experience and skills."
+        "title": "HRBP & Recruiter (Intern)",
+        "company": "Hikvision Digital Technology Co., Ltd",
+        "period": "May 2022 to Jul 2022",
+"description": "1. Collaborated HR operations through document management, analytics reporting, employee surveys, and creation of corporate communications materials.\n2. Developed comprehensive onboarding and training materials, including presentation decks, employee handbooks, and feedback process that received management commendation.\n3. Orchestrated cultural engagement initiatives including annual corporate events, traditional celebrations, and new employee orientations to strengthen organizational culture.\n4. Conducted preliminary phone interviews and resume evaluations as part of initial candidate screening process, coordinated subsequent face-to-face assessments."
       }
     ]
   },
   "projects": {
-    "title": "Projects",
-    "items": [
-      {
-        "title": "Project 1",
-        "description": "A brief description of your first project. Explain what it does and what technologies you used.",
-        "technologies": ["List", "Your", "Technologies"],
-        "github": "https://github.com/TencentEdgeOne",
-        "site": "https://github.com/TencentEdgeOne",
-        "image": "/images/project-2-cover.jpg"
-      },
-      {
-        "title": "Project 2",
-        "description": "A brief description of your second project. Explain what it does and what technologies you used.",
-        "technologies": ["List", "Your", "Technologies"],
-        "github": "https://github.com/TencentEdgeOne",
-        "site": "https://github.com/TencentEdgeOne",
-        "image": "/images/project-3-cover.png"
-      },
-      {
-        "title": "Project 3",
-        "description": "A brief description of your third project. Explain what it does and what technologies you used.",
-        "technologies": ["List", "Your", "Technologies"],
-        "github": "https://github.com/TencentEdgeOne",
-        "site": "https://github.com/TencentEdgeOne",
-        "image": "/images/project-4-cover.jpg"
-      }
+  "title": "Projects",
+  "items": [
+    {
+      "title": "AI-driven Optimization of Airbnb Customer Satisfaction and Listing Valuation",
+      "role": "Business Analyst",
+      "description": "Led a team to analyze Airbnb ratings and review texts, built SAS Viya models (Random Forest, Gradient Boost, Linear Regression) to explore relationships between pricing, customer experience, and operational resources, and proposed AI-driven strategies to enhance customer satisfaction and pricing efficiency.",
+      "keySkills": ["SAS Viya", "Text Mining", "Customer Satisfaction Modeling", "Team Leadership", "Operational Strategy"],
+      "image": "/images/airbnb-project.jpg"
+    },
+    {
+      "title": "Strategic Market Entry Plan for an Australian HR Consulting Firm in the US",
+      "role": "Strategy Consultant",
+      "description": "Independently delivered a full consulting report evaluating US market entry feasibility, applied PESTLE, Porter’s Five Forces, and SWOT analyses, designed Go-to-Market strategy, team recruitment plan, and budget allocation for first-year operations.",
+      "keySkills": ["Strategic Planning", "Market Analysis", "Consulting Frameworks", "Go-to-Market Design", "Budget & Resource Optimization", "Professional Business Report Writing"],
+      "image": "/images/hr-consulting-project.jpg"
+    },
+    {
+      "title": "Sales Data Analysis and Visualization Using Power BI",
+      "role": "Data Analyst",
+      "description": "Cleaned and modeled retail sales data, built interactive Power BI dashboards to dynamically present sales trends, SKU composition, and channel performance, and provided recommendations for product line rationalization and regional channel optimization.",
+      "keySkills": ["Power BI", "DAX", "Data Modeling", "Business Insights", "Data Visualization"],
+      "image": "/images/powerbi-project.jpg"
+    },
+    {
+      "title": "Traffic Accident Data Analysis for Insurance Risk Assessment",
+      "role": "Business Analyst",
+      "description": "Processed and modeled traffic accident datasets, performed Python-based clustering and visualization, and designed risk classification and differential pricing recommendations for an insurance company.",
+      "keySkills": ["Python", "pandas", "seaborn", "scikit-learn", "Clustering Analysis", "Risk Management"],
+      "achievement": "Project submitted as report and presentation, earned Distinction, enhancing team expertise in risk modeling and data-driven insights.",
+      "image": "/images/traffic-project.jpg"
+    }
     ]
   },
   "contact": {
@@ -212,33 +203,18 @@
       "service_id": "YOUR_SERVICE_ID",
       "template_id": "YOUR_TEMPLATE_ID",
       "public_key": "YOUR_PUBLIC_KEY",
-      "to_email": "your-email@example.com"
+      "to_email": "1657715662@qq.com"
     },
     "info": {
-      "email": "your.email@example.com",
-      "phone": "+86 188 1367 6461",
-      "location": "Your Location"
+      "email": "1657715662@qq.com",
+      "phone": "+86 17379828211",
+      "location": "Syndey, Australia/Shanghai, China"
     },
     "social": [
       {
-        "name": "GitHub",
-        "icon": "github",
-        "link": "https://github.com/TencentEdgeOne"
-      },
-      {
         "name": "LinkedIn",
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/company/tencentedgeone"
-      },
-      {
-        "name": "Medium",
-        "icon": "medium",
-        "link": "https://medium.com/tencent-cloud/welcome-to-tencent-edgeone-e4eab9100ebc"
-      },
-      {
-        "name": "Instagram",
-        "icon": "instagram",
-        "link": "https://x.com/TencentCloudEO"
+        "link": "https://www.linkedin.com/in/yunwei-xu-83a056310/"
       }
     ],
     "form": {
