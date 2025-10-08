@@ -247,12 +247,12 @@ export default function Home() {
                 <h3>{project.title}</h3>
                 <p>{project.description}</p>
                 <ul>
-                  <a href={project.github} target="_blank" rel="noopener noreferrer">
+                  {/* <a href={project.github} target="_blank" rel="noopener noreferrer">
                     <li className="github">github</li>
-                  </a>
-                  <a href={project.site} target="_blank" rel="noopener noreferrer">
+                  </a> */}
+                  {/* <a href={project.site} target="_blank" rel="noopener noreferrer">
                     <li className="site">visit site</li>
-                  </a>
+                  </a> */}
                 </ul>
               </div>
             </div>
